@@ -1,7 +1,7 @@
 # University of Seoul RL (AI20041) Term Project: Car Racing
 
 Term Project Page of UoS AI20041 Reinforcement Learning Course
-
+ 
 ### Leaderboard
 
 |         Team                   |  Group  |  Reward  |
