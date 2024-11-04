@@ -10,9 +10,8 @@ Term Project Page of UoS AI20041 Reinforcement Learning Course
 |            Team 빠르조              |    G    |          |
 |            Team 김성민              |    G    |          |
 |            Team 달려라 하니              |    U    |          |
-|            Team E              |    U    |          |
-|            Team F              |    G    |          |
-|            Team G              |    U    |          |
-|            Team H              |    G    |          |
-|            Team I              |    U    |          |
-|            Team J              |    G    |          |
+|            Team G1              |    G    |          |
+|            Team G2              |    G    |          |
+|            Team U1              |    U    |          |
+|            Team U2              |    U    |          |
+|            Team U3             |    U    |          |
