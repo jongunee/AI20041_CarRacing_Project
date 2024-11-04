@@ -6,7 +6,7 @@ Term Project Page of UoS AI20041 Reinforcement Learning Course
 
 |         Team                   |  Group  |  Reward  |
 |:------------------------------:|:-------:|:---------|
-|            Team A              |    U    |          |
+|            Team F1:1024              |    U    |    10000     |
 |            Team B              |    G    |          |
 |            Team C              |    U    |          |
 |            Team D              |    G    |          |
